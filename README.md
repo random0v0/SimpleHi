@@ -5,4 +5,6 @@
 3. Thats it.
 
 # How can I change the color?
-Line 20 : EditorGUI.DrawRect(_rect, Color.yellow); //Change Color like this Color.yellow, Color.Black
+![1688470417](https://github.com/random0v0/SimpleHi/assets/96767622/7e9ee2a6-468c-45c0-beac-0f7b05c0b52a)
+
+By GeonhanLee
