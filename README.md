@@ -1,4 +1,6 @@
 # SimpleHi aka SimpleHierarchy
+![simpleHi](https://github.com/random0v0/SimpleHi/assets/96767622/706b6e35-6e78-4faa-a6e8-ff66945b7773)
+
 # HOW TO USE?
 1. Add the "SimpleHi.cs" file to Assets folder in your project.
 2. Add the "_" before the Gameobject name you want to rename.
