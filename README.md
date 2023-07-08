@@ -12,4 +12,5 @@ A script that increases visibility by changing the background color of the game 
 ![1688470417](https://github.com/random0v0/SimpleHi/assets/96767622/7e9ee2a6-468c-45c0-beac-0f7b05c0b52a)
 
 SimpleHi By random0v0
+
 Color Change By GeonhanLee
