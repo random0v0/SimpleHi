@@ -1,4 +1,4 @@
-# SimpleHi aka SimpleHierarchy
+# SimpleHierarchy
 ![simpleHi](https://github.com/random0v0/SimpleHi/assets/96767622/706b6e35-6e78-4faa-a6e8-ff66945b7773)
 
 A script that increases visibility by changing the background color of the game object in the Hierarchy in Unity Editor.
